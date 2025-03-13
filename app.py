@@ -158,6 +158,7 @@ with st.sidebar:
     st.markdown("### App Info")
     st.markdown("Built Using Streamlit")
     st.markdown("Version 1.2.0")
+    st.markdown("Made By Talal Shoaib")
 
 # Main application header
 st.title("📚 Personal Library Manager")
