@@ -1,0 +1,108 @@
+[
+    {
+        "title": "The Originals",
+        "author": "Talal Shoaib",
+        "publication_year": 1996,
+        "genres": [
+            "Mystery",
+            "Thriller",
+            "Romance"
+        ],
+        "read_status": true,
+        "date_added": "2025-03-13 07:15:39",
+        "cover_image": null,
+        "rating": 5,
+        "review": "It Is One Of The Best Books !!!"
+    },
+    {
+        "title": "The Vampire Diaries",
+        "author": "Talal Shoaib",
+        "publication_year": 1999,
+        "genres": [
+            "Mystery",
+            "Thriller",
+            "Romance"
+        ],
+        "read_status": true,
+        "date_added": "2025-03-13 07:39:17",
+        "cover_image": null,
+        "rating": 5,
+        "review": "It Is Very Compelling"
+    },
+    {
+        "title": "Teen Wolf",
+        "author": "Talal Shoaib",
+        "publication_year": 2008,
+        "genres": [
+            "Thriller",
+            "Mystery",
+            "Science Fiction"
+        ],
+        "read_status": true,
+        "date_added": "2025-03-14 02:49:09",
+        "cover_image": null,
+        "rating": 4,
+        "review": ""
+    },
+    {
+        "title": "John Wick",
+        "author": "Talal Shoaib",
+        "publication_year": 2002,
+        "genres": [
+            "Mystery",
+            "Thriller",
+            "Fantasy"
+        ],
+        "read_status": false,
+        "date_added": "2025-03-14 02:51:00",
+        "cover_image": null,
+        "rating": 5,
+        "review": ""
+    },
+    {
+        "title": "Titanic",
+        "author": "Talal Shoaib",
+        "publication_year": 1985,
+        "genres": [
+            "Mystery",
+            "Fantasy",
+            "Romance"
+        ],
+        "read_status": true,
+        "date_added": "2025-03-14 02:56:40",
+        "cover_image": null,
+        "rating": 5,
+        "review": ""
+    },
+    {
+        "title": "Jurassic Park",
+        "author": "Talal Shoaib",
+        "publication_year": 1991,
+        "genres": [
+            "Fantasy",
+            "Mystery",
+            "Thriller",
+            "Biography"
+        ],
+        "read_status": true,
+        "date_added": "2025-03-14 03:02:45",
+        "cover_image": null,
+        "rating": 5,
+        "review": ""
+    },
+    {
+        "title": "Jurassic World",
+        "author": "Talal Shoaib",
+        "publication_year": 1999,
+        "genres": [
+            "Science Fiction",
+            "Thriller",
+            "Biography"
+        ],
+        "read_status": true,
+        "date_added": "2025-03-14 03:14:34",
+        "cover_image": null,
+        "rating": 5,
+        "review": ""
+    }
+]
